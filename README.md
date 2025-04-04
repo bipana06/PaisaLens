@@ -12,4 +12,4 @@ PaisaLens is a money recognition app designed to recognize Nepali currency notes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PaisaLens.git
+   git clone https://github.com/bipana06/PaisaLens.git
